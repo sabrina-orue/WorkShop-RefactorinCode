@@ -1,2 +1,2 @@
-# WorkShop-RefactorinCode
-Tecnicas de Refactorizacion
+# WorkShop-RefactoringCode
+Técnicas de Refactorización
